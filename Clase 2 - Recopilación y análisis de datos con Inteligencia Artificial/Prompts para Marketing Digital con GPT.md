@@ -33,4 +33,4 @@ Un prompt es una pregunta o situación que se le presenta al modelo de lenguaje 
 
 ## Tecnicas FRAMEWORK de GPT
 
-![alt text](<Tecnicas FRAME de GPT.jpeg>)
+![Tecnicas FRAME de GPT](<Tecnicas FRAME de GPT.jpeg>)
